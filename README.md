@@ -1,0 +1,2 @@
+Author: Matthew Tan
+Purpose: This is the third assignment displaying use of a basic 3-column layout with a header and footer. There is an after.png image for reference in styling, an index.html that remains unmodified, image files related to the assignment, and a main.css that will be the only file modified in this assignment.
