@@ -17,16 +17,20 @@ h1, h2, h3 {
 
 aside {
 	float: left;
-	width: 44.25%;
-	margin-left: 0.5%
+	width: 43.05%;
+	margin-left: 1.5%;
+	max-width: 29%;
 }
 
 footer {
 	clear: both;
+	padding-top: 1em;
 }
 
 header {
-
+	position: relative;
+	top: -20px;
+	left: 20px;
 }
 
 img {
@@ -35,13 +39,15 @@ img {
 
 main {
 	float: left;
-	width: 44.25%
+	width: 43.05%;
 }
 
 nav {
 	float: left;
-	width: 10%;
-	padding-left: 1%;
+	width: 8%;
+	position: relative;
+	left: 0.5em;
+	margin-right: 4.4%;
 }
 
 #copyright {
@@ -49,5 +55,5 @@ nav {
 }
 
 #main-container {
-
+	max-width: 68%;
 }
